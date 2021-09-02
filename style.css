@@ -105,6 +105,14 @@ h1 {
 	background-color: #F5F5F5;
 }
 
+.ghost {
+	background-color: #A483C5;
+}
+
+.dark {
+	background-color: #32374b;
+}
+
 .card:hover {
 	animation: bounce 0.5s linear;
 }
